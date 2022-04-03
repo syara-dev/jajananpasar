@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://user-images.githubusercontent.com/53548443/161428539-44b60aaa-634a-4140-b2da-219522614e62.svg" width="400"></a></p>
+<p align="center"><a href="https://jajananpasar.id" target="_blank"><img src="https://user-images.githubusercontent.com/53548443/161428539-44b60aaa-634a-4140-b2da-219522614e62.svg" width="400"></a></p>
 
 ## Tentang JajananPasar.id
 
